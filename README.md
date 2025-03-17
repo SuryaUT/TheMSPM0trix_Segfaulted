@@ -1,7 +1,7 @@
-# TheMSPM0trix_Segfaulted
+# The M0+rix: Segfaulted
 ECE319H Lab 9: Handheld Video Game Competition
 
-## The MSPM0trix: Segfaulted
+## The  M0+rix:  Segfaulted
 
 Reality is a pointer… and you just dereferenced NULL.
 
