@@ -10,10 +10,10 @@ Welcome to The MSPM0trix: Segfaulted, a handheld first-person shooter where the 
 Dodge enemy fire, navigate the simulation, and exploit every loophole in the code—because in this world, even one bad instruction could bring everything crashing down. Are you the debugger or just another broken process?
 
 ## 🔥 Features:
-✅ First-person shooter with a Matrix-inspired digital battlefield
-✅ Real-time PVP over UART – battle your opponent in low-level style
-✅ Optimized for MSPM0 – embedded gaming meets high-speed action
-✅ Handheld experience – take the simulation anywhere
+✅ First-person shooter with a Matrix-inspired digital battlefield  
+✅ Real-time PVP over UART – battle your opponent in low-level style  
+✅ Optimized for MSPM0 – embedded gaming meets high-speed action  
+✅ Handheld experience – take the simulation anywhere  
 ✅ Segfault or escape? – The system is unstable, and only one player will survive
 
 💾 Flash in. Boot up. Overwrite reality.
