@@ -5,7 +5,7 @@ ECE319H Lab 9: Handheld Video Game Competition
 
 Reality is a pointer… and you just dereferenced NULL.
 
-Welcome to The MSPM0trix: Segfaulted, a handheld first-person shooter where the only way out is through the system’s deepest vulnerabilities. Running on the MSPM0 microcontroller, this game turns embedded systems into battlegrounds, with PVP combat over UART and a retro-style 3D world.
+Welcome to The M0+rix: Segfaulted, a handheld first-person shooter where the only way out is through the system’s deepest vulnerabilities. Running on the MSPM0 microcontroller, this game turns embedded systems into battlegrounds, with PVP combat over UART and a retro-style 3D world.
 
 Dodge enemy fire, navigate the simulation, and exploit every loophole in the code—because in this world, even one bad instruction could bring everything crashing down. Are you the debugger or just another broken process?
 
